@@ -51,7 +51,14 @@ Attendance is compulsory for all the standups, please check your Cohort page on 
 **2.3 Do I need to use a specific name or email for the internship?**  
 Yes. You must use the **same name and email ID** used during registration across all platforms (ViBe, GitHub, Zoom etc.) for automated tracking of your progress.
 
-**2.4 Should I fill the attendance form attached to the NPTEL offer letter?**  
+**2.4 Can I use my college or non-Gmail email ID for registration?**
+No. This is VERY IMPORTANT.
+  ->You must register using a Gmail ID (@gmail.com).
+  ->Non-Gmail IDs will not be registered
+  ->Even college Google Workspace emails may cause issues
+👉 Please ensure you use a personal @gmail.com address while registering.
+
+**2.5 Should I fill the attendance form attached to the NPTEL offer letter?**  
 Yes. You must fill the **Google Form provided in the NPTEL offer letter** **every day** during your internship (**except Sundays**).
 
 Guidelines:
@@ -62,10 +69,10 @@ Guidelines:
 
 Please ensure that the form is filled **daily** going forward to avoid missing attendance again.
 
-**2.5 I forgot to fill the attendance sheet attached to the NPTEL offer letter yesterday. What should I do now?**  
+**2.6 I forgot to fill the attendance sheet attached to the NPTEL offer letter yesterday. What should I do now?**  
 Unfortunately, there is nothing that can be done, as the form is used for NPTEL’s official database and attendance cannot be recorded for the previous day. The previous day will be considered as a leave.
 
-**2.6 How can I avail the one-day leave allowed every month during the internship?**    
+**2.7 How can I avail the one-day leave allowed every month during the internship?**    
 Taking leave is **discouraged**, as you may miss important updates shared during live sessions or fall behind in your progress. It will be **your own responsibility** to complete the work missed on the leave day.
 
 However, if you must take the leave, follow the steps below:
@@ -99,6 +106,21 @@ Initially, try to get your query resolved from the FAQ. Check the Broadcast Tele
 
 Email **vinternship@vicharanashala.zohodesk.in**.  
 Responses are provided **within 2 hours** between **9:00 AM and 9:00 PM**.
+Any question submitted beyond 9 PM will be answered the next day.
+
+**4.2 What if I don’t receive a response in 24 hours?** 
+If you do not receive a response within 24 hours, you may raise a second ticket.
+In the subject line, mention: "Attention Please – Follow-up on Ticket #[Original Ticket Number]"
+This ticket will be escalated to our Mentors Team, who will reach out to you for a voice call discussion and try to resolve the issue directly.
+
+**4.3 If my concern still isn’t addressed, how do I escalate further?**  
+After 48 hours of your first ticket (and after raising a follow-up), you can escalate the matter via email to the Internship Sponsor, with CC to Prof. Sudarshan Iyengar directly with the following recipients in CC:
+  ->Your department’s faculty reference
+  ->Your department HOD
+  ->The VLED Team at dled@iitrpr.ac.in
+  
+**4.4 Is this process mandatory for all issues?**  
+Yes, to maintain consistency and ensure efficient support, we request all interns to follow this three-step resolution path.
 
 ---
 
