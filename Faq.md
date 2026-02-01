@@ -18,6 +18,7 @@ order: 2
 8. [MERN Case Studies](#8-mern-case-studies)
 9. [Ejection Policy](#9-ejection-policy)
 10. [Self-Healing Endorsement Network - Viva/Peer Evaluation System(PES)](#10-self-healing-endorsement-network---vivapeer-evaluation-systempes)
+11. [Health Points](#11-health-points)
 
 ---
 
@@ -510,6 +511,27 @@ YET TO BE ANNOUNCED**. -->
 
 The Self-Healing Endorsement Network rewards **integrity, collaboration, responsibility, and accountability**.
 
+## 11. Health Points 
+
+**11.1 How do I access my Individual Health Points (HP) page?**
+You can view your Individual Health Points by following these steps: 
+  ->Go to: https://sudarshansudarshan.github.io/vinternship/
+  ->Navigate to your Cohort-specific page
+  ->In the Dashboard section, click Open Dashboard
+  ->Select the Health Points tab
+  ->Choose Individual HP
+
+This section displays your personal Health Points status.
+
+**11.2 Where can I find activity deadlines (ViBe / Case Study)?**
+All activity deadlines are available directly on the dashboard: 
+  ->Go to: https://sudarshansudarshan.github.io/vinternship/
+  ->Navigate to your Cohort-specific page
+  ->In the Dashboard section, click Open Dashboard
+  ->Select the Health Points tab
+  ->Choose Individual HP
+
+👉 The respective deadlines are shown under each activity inside the dashboard.
 <!-- **11.13 Will Bhavna ma’am conduct Viva sessions in the future so that interns can become Jedi (Bronze ticket holders)?**  
 
 No, Bhavna ma'am will unfortunately **not conduct Viva sessions anymore**. She will only perform audit checks in the form of viva to identify defaulters/anomalies.
