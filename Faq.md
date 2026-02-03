@@ -109,7 +109,9 @@ ViSakha: https://sakha.vicharanashala.ai/
 
 Email **vinternship@vicharanashala.zohodesk.in**.  
 Mention your Name, Cohort name and Internship ID (If applicable)  
+
 Responses are provided **within 2 hours** between **9:00 AM and 9:00 PM**.
+
 Any question submitted beyond 9 PM will be answered the next day.
 
 **4.2 What if I don’t receive a response in 24 hours?** 
